@@ -12,6 +12,13 @@
     "engines": {
         "vscode": "^1.63.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ldriko/aldrico-s"
+    },
+    "bugs": {
+        "url": "https://github.com/ldriko/aldrico-s/issues"
+    },
     "categories": [
         "Themes"
     ],
