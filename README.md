@@ -1,3 +1,3 @@
-## Personal VS Code Theme
+# Personal Theme
 
 Black with ayu theme's color scheme. Dank.

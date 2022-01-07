@@ -19,8 +19,23 @@
     "bugs": {
         "url": "https://github.com/ldriko/aldrico-s/issues"
     },
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+    "icon": "images/icon.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "ayu",
+        "ayu black",
+        "ayu dark",
+        "ayu theme",
+        "black",
+        "black theme",
+        "dark theme",
+        "theme"
     ],
     "contributes": {
         "themes": [
