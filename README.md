@@ -4,4 +4,4 @@ Black with ayu theme's color scheme. Dank.
 
 For fellow black enjoyer
 
-![alt text](./images/sample.png)
+![Sample](https://github.com/ldriko/aldrico-s/blob/main/images/sample.png?raw=true)
